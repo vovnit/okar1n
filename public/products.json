@@ -1,0 +1,139 @@
+[
+  {
+    "id": 0,
+    "title": "EXPONENTA IMUNO+ вишня-женьшень ",
+    "author": "EXPONENTA",
+    "image":
+      "http://exponenta.by/upload/iblock/c99/c9929aba13db3d424b151d1a30e2b2e9.png",
+    "price": 100,
+    "rating": 3
+  },
+  {
+    "id": 1,
+    "title": "EXPONENTA IMUNO+ яблоко-абрикос",
+    "author": "EXPONENTA",
+    "image":
+      "http://exponenta.by/upload/iblock/513/51367df75d6e8a49fb20346e97b3aafb.png",
+    "price": 100,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "title": "EXPONENTA IMUNO+ малина-черная смородина",
+    "author": "EXPONENTA",
+    "image":
+      "http://exponenta.by/upload/iblock/a44/a44b39a058d5915e9016ba05c992ed45.png",
+    "price": 100,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "title": "EXPONENTA IMUNO+ черника",
+    "author": "EXPONENTA",
+    "image":
+      "http://exponenta.by/upload/iblock/418/418984eb3a9b376e32ff1fa7685fbfad.png",
+    "price": 100,
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "title": "EXPONENTA ACTIVE без наполнителя",
+    "author": "EXPONENTA",
+    "image":
+      "http://exponenta.by/upload/iblock/ce8/ce83057670101b4f4070502795abb2c6.png",
+    "price": 150,
+    "rating": 1
+  },
+  {
+    "id": 5,
+    "title": "EXPONENTA ACTIVE клубника-арбуз",
+    "author": "EXPONENTA",
+    "image":
+      "http://exponenta.by/upload/iblock/4e9/4e908dcf00dcc1077f664e9cd3b09808.png",
+    "price": 150,
+    "rating": 0
+  },
+  {
+    "id": 6,
+    "title":
+      "EXPONENTA ACTIVE манго-жасмин",
+    "author": "EXPONENTA",
+    "image":
+      "http://exponenta.by/upload/iblock/077/07721b77c4e343598d28a56b9ea7edf6.png",
+    "price": 150,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "title": "EXPONENTA ACTIVE дыня",
+    "author": "EXPONENTA",
+    "image":
+      "http://exponenta.by/upload/iblock/95d/95d268d719e0bf3b56ebd1583f4825c3.png",
+    "price": 150,
+    "rating": 0
+  },
+  {
+    "id": 8,
+    "title": "EXPONENTA ACTIVE черника-алоэ",
+    "author": "EXPONENTA",
+    "image":
+      "http://exponenta.by/upload/iblock/d8b/d8b62dd79d6b93bd8747efa4eb598700.png",
+    "price": 150,
+    "rating": 5
+  },
+  {
+    "id": 9,
+    "title": "Ultimate Nutrition Gluta Pure 400gr",
+    "author": "Ultimate Nutrition",
+    "image":
+      "https://http2.mlstatic.com/glutamina-400g-gluta-pure-ultimate-nutrition-D_NQ_NP_705173-MLB30123819332_042019-F.jpg",
+    "price": 1600,
+    "rating": 5
+  },
+  {
+    "id": 10,
+    "title": "Ultimate Nutrition BCAA",
+    "author": "Ultimate Nutrition",
+    "image":
+      "https://avatars.mds.yandex.net/get-mpic/1111879/img_id5989416973724376192.png/9hq",
+    "price": 3200,
+    "rating": 5
+  },
+  {
+    "id": 11,
+    "title": "Xtreme Napalm 240ml",
+    "author": "Napalm",
+    "image":
+      "https://www.5lb.ru/pict/3893/2535.png",
+    "price": 1500,
+    "rating": 5
+  },
+  {
+    "id": 12,
+    "title": "Carbox Gainer 500gr",
+    "author": "BioTech",
+    "image":
+      "https://www.xn----8sbemcndb4beddihinui.kiev.ua/image/cache/data/1-photo/BioTech/first/Carbox-0-5-kg-500x500.jpg",
+    "price": 2000,
+    "rating": 5
+  },
+  {
+    "id": 13,
+    "title": "Almass Gainer 1500gr",
+    "author": "Allmass",
+    "image":
+      "https://cache3.youla.io/files/images/780_780/5a/67/5a679f0585e9d22950594da3.jpg",
+    "price": 3000,
+    "rating": 5
+  },
+  {
+    "id": 14,
+    "title": "Dr. Hoffman Top mass Gainer 2500gr ",
+    "author": "Dr. Hoffman",
+    "image":
+      "https://body-pit.ru/i/product_i/45215_1_b.jpg",
+    "price": 5000,
+    "rating": 5
+  }
+
+]
